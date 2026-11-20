@@ -1,0 +1,9 @@
+# Never commit raw Microsoft Access databases (too large & private)
+*.accdb
+*.laccdb
+*.mdb
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
